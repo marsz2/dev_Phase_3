@@ -21,7 +21,7 @@
 // Use the Project URL and anon/publishable key from THE SAME Supabase project.
 // Never put a service_role/secret key in browser code.
 const SUPABASE_URL = "https://lmevhkcmgfpoqwxsxeel.supabase.co";
-const SUPABASE_ANON_KEY = "sb_publishable_bAEIVCxLxNPc0RlPQsQQpQ_RSrYY4wX";
+const SUPABASE_ANON_KEY = "sb_publishable_uYnVTBF1VdFPbtnWV-cq_w_d2IyMyLT";
 
 
 const SUPABASE_CONFIGURED =
